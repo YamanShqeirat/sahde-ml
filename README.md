@@ -52,6 +52,17 @@ Key objectives:
 5. **Visualization**: Folium maps of predicted shade and feature importance charts.
 6. **Clustering (optional)**: K-Means for identifying shade/heat hotspots.
 
+## Data Sources
+
+  | Dataset                              | Source                                                                                                        | Purpose                         |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| Central Arizona–Phoenix LTER         | [CAP LTER Data Portal](https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-cap.647.1)           | Land cover & ecological context |
+| Keep Cool Global Community Shade Map | [ArcGIS Hub](https://keep-cool-global-community.hub.arcgis.com/)                                              | Shade polygons & index labels   |
+| Berkeley Earth Temperature Data      | [Kaggle Dataset](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data) | Temperature anomalies           |
+| NASA HLS (Landsat + Sentinel)        | [NASA EarthData](https://www.earthdata.nasa.gov/data/projects/hls)                                            | Spectral data for NDVI          |
+| USGS Topographic & Elevation Data    | [USGS Data Catalog](https://data.usgs.gov/datacatalog/data/USGS:664fb9c9d34e702fe8748151)                     | Terrain-based shading features  |
+
+
 ## Team
 
 | Name | ASURITE Email |
