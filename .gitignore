@@ -1,8 +1,14 @@
-data/
-*.gpkg
+# Ignore all data files
+data/*
+!data/.gitkeep
+!data/README.md
+
+# Common large file types
 *.tif
-*.shp
-*.dbf
-*.prj
-*.shx
-.ipynb_checkpoints/
+*.csv
+*.zip
+*.gpkg
+*.hdf
+*.nc
+*.npz
+*.tar
