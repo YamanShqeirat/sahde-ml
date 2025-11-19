@@ -10,6 +10,8 @@ Large files are not uploaded to GitHub to keep the repository lightweight.
 | Keep Cool Land Cover & Temperature | LULC_temp_prediction.csv, All_LC_Sensor_Climate.csv | [Keep Cool ArcGIS Hub](https://keep-cool-global-community.hub.arcgis.com/) |
 | NASA HLS NDVI | HLS.L30.T12SVB...tif | [NASA EarthData Search](https://search.earthdata.nasa.gov) |
 | Berkeley Earth City Temperatures | GlobalLandTemperaturesByCity.csv | [Kaggle Dataset](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data) |
+| Where will Tree Planting Improve Urban Heat Health | Where_Will_Tree_Planting_Improve_Urban_Heat_Health%3F.csv | https://resilience-fema.hub.arcgis.com/datasets/esri::where-will-tree-planting-improve-urban-heat-health/explore |
+| LC Sensor Climate | All_LC_Sensor_Climate.csv | |
 
 All files should be placed locally under:
 data/raw or stored in Google Drive for Colab integration.
